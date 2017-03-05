@@ -1,5 +1,19 @@
 ## Word list
 
-1. Blockchain
-2. Ethereum
-3. Bitcoin
+Blockchain 
+Block
+Proof of Work PoF 
+Proof of Stake PoS
+Consensus
+Mining Miner 
+Ethereum 
+Solidity
+EVM Virtual Machine
+Whisper
+Swarm 
+IPSF
+Oracle
+Smart Contract
+Transaction 
+Unstoppable 
+I
