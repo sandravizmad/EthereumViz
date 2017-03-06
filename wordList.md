@@ -1,19 +1,20 @@
 ## Word list
 
-Blockchain 
+Blockchain
 Block
-Proof of Work PoF 
+Proof of Work PoF
 Proof of Stake PoS
 Consensus
-Mining Miner 
-Ethereum 
+Mining Miner
+Ethereum
 Solidity
 EVM Virtual Machine
 Whisper
-Swarm 
+Swarm
 IPSF
 Oracle
 Smart Contract
-Transaction 
-Unstoppable 
+Transaction
+Unstoppable
 I
+Test
