@@ -2,7 +2,7 @@
 
 Objective - Understanding the relationship of blockchain, bitcoin and ethereum terms, in order to define an Ethereum Language based on the way people write about the topic in the internet.
 
-1. Step: Prototype Analysis, please see here [Word list](/wordList.md)
+1. Step: Prototype Analysis, please see here [Word list](/wordList.md) and 
 
 
 
