@@ -1,20 +1,45 @@
 ## Word list
 
-Blockchain
+#### Bitcoin
 Block
-Proof of Work PoF
-Proof of Stake PoS
-Consensus
-Mining Miner
-Ethereum
+Blocksize
+Blocktime
+Proof of Work (PoW)
+Wallet
+Transaction
+Mining (Miner)
+Consensus (Consensus Algorithm)
+Account
+Private Key
+Bitcoin Address
+Digital Signature
+Double Spending Problem
+#### Ethereum
+Frontier
+Homestead
+Metropolis
+Serenity
 Solidity
-EVM Virtual Machine
+Virtual Machine (EVM)
+Proof of Stake (PoS)
+Casper
 Whisper
 Swarm
-IPSF
+IPFS
 Oracle
 Smart Contract
-Transaction
+Smart Property
+Uport
+Gnosis
+Augur
+Akasha
+
+#### Associations
 Unstoppable
-I
-Test
+Decentralization
+Security
+Privacy  
+Trust
+Trustless
+Intermediary
+Encryption
