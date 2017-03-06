@@ -10,4 +10,4 @@ Objective - Understanding the relationship of blockchain, bitcoin and ethereum t
 
 capture (or import) online conversational type data such a text messages and build and collect your own unique data set or import in your own existing data set)
 find relationship of the choosen terms within your data set,
-build and visualize networks to discover and explore the language patterns
+build and visualize networks to discover and explore the language patterns.
