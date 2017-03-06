@@ -6,7 +6,7 @@ Genesisblock/
 Blocksize/
 Blocktime/
 Proof of Work (PoW)/
-Hash/
+Hash (Hash function)/
 Wallet/
 Token/
 Satoshi Nakamoto/
@@ -22,7 +22,7 @@ Digital Signature/
 Double Spending Problem/
 Node/
 network/
-peer to peer/
+Peer to Peer/
 Cryptocurrency/
 Digital currency/
 #### Ethereum
