@@ -1,45 +1,96 @@
 ## Word list
 
 #### Bitcoin
-Block
-Blocksize
-Blocktime
-Proof of Work (PoW)
-Wallet
-Transaction
-Mining (Miner)
-Consensus (Consensus Algorithm)
-Account
-Private Key
-Bitcoin Address
-Digital Signature
-Double Spending Problem
+Block/
+Genesisblock/
+Blocksize/
+Blocktime/
+Proof of Work (PoW)/
+Hash/
+Wallet/
+Token/
+Satoshi Nakamoto/
+Transaction/
+Mining (Miner)/
+Consensus (Consensus Algorithm)/
+Difficulty/
+Finality/
+Account/
+Private Key/
+Bitcoin Address/
+Digital Signature/
+Double Spending Problem/
+Node/
+network/
+peer to peer/
+Cryptocurrency/
+Digital currency/
 #### Ethereum
-Frontier
-Homestead
-Metropolis
-Serenity
-Solidity
-Virtual Machine (EVM)
-Proof of Stake (PoS)
-Casper
-Whisper
-Swarm
-IPFS
-Oracle
-Smart Contract
-Smart Property
-Uport
-Gnosis
-Augur
-Akasha
+Frontier/
+Homestead/
+Metropolis/
+Serenity/
+Vitalik Buterin/
+Gavin Wood/
+Ether/
+Gas/
+Solidity/
+Serpent/
+LLL/
+Mutan/
+Turning Complete/
+Stateful/
+Get/
+Parity/
+Go/
+Virtual Machine (EVM)/
+Proof of Stake (PoS)/
+Casper/
+Sharding/
+Whisper/
+Swarm/
+IPFS/
+Oracle/
+Mist/
+Metamask/
+Smart Contract/
+Sate/
+Smart Property/
+Fork (Hardfork) (Softfork)/
+Ether Classic/
+ICO/
+Uport/
+Gnosis/
+Ujo/
+Augur/
+Akasha/
+Private Blockchain/
+Onchain/
+Offchain/
+Infura/
+The Ethereum Foundation/
+Consensys/
+Ethcore/
+Ether.camp/
 
 #### Associations
-Unstoppable
-Decentralization
-Security
-Privacy  
-Trust
-Trustless
-Intermediary
-Encryption
+Unstoppable/
+Guaranty/
+Decentralization (decentral)/
+Security (secure)/
+Privacy (private)/
+Trust (trustworthy)/
+Immortality
+Surveillance
+Scalability
+Truth
+Efficiency (efficient)/
+Fairness (Fair)/
+Trustless/
+Intermediary/
+Encryption/
+Money/
+Democracy/
+Sharing Economy/
+Finance/
+IOT/
