@@ -80,10 +80,10 @@ Decentralization (decentral)/
 Security (secure)/
 Privacy (private)/
 Trust (trustworthy)/
-Immortality
-Surveillance
-Scalability
-Truth
+Immortality/
+Surveillance/
+Scalability/
+Truth/
 Efficiency (efficient)/
 Fairness (Fair)/
 Trustless/
@@ -94,3 +94,6 @@ Democracy/
 Sharing Economy/
 Finance/
 IOT/
+Asset/
+Ownership/
+Identity/
