@@ -12,6 +12,6 @@ Capture data such a text messages and build a data set based on counting the fre
 
 A word list including all the terms of interest, with a special focus on Ethereum specific terms and general blockchain concept perceptions. Choose medium for its article format and general high level content produced by individuals  
 
-1. Step: Prototype Analysis, please see here [Word list](/wordList.md) which will be analysed in this [medium article](https://media.consensys.net/programmable-blockchains-in-context-ethereum-s-future-cd8451eb421e#.k5mjkel5d)
+1. Step: Prototype Analysis, please see here [Word list](/wordList.md) which will be analysed in this [medium article](/ArticleList.md)
 
-2. Step: If the prototype graph will make sense, second step will be to extend the source (100 medium articles about Ethereum, 100 about Bitcoin and 100 about blockchain) rerun the analysis, building a reasonable network in Gephi with the objective to finish with with personalized visualization in D3.js. 
+2. Step: If the prototype graph will make sense, second step will be to extend the source (100 medium articles about Ethereum, 100 about Bitcoin and 100 about blockchain) rerun the analysis, building a reasonable network in Gephi with the objective to finish with with personalized visualization in D3.js.
