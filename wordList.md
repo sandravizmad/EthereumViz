@@ -1,11 +1,15 @@
 ## Word list
 
-Bitcoin
+Bitcoin </br>
 
-Block/
-Genesisblock/
-Blocksize/
-Blocktime/
+Block
+
+Genesisblock
+
+Blocksize
+
+Blocktime
+
 Proof of Work/
 PoW/
 Hash/
