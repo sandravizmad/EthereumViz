@@ -25,7 +25,7 @@ network/
 Peer to Peer/
 Cryptocurrency/
 Digital currency/
-#### Ethereum
+Ethereum
 Frontier/
 Homestead/
 Metropolis/
@@ -40,8 +40,8 @@ LLL/
 Mutan/
 Turning Complete/
 Stateful/
-Get/
-Parity/
+Get Client/
+Parity Client/
 Go/
 Virtual Machine (EVM)/
 Proof of Stake (PoS)/
@@ -72,8 +72,6 @@ The Ethereum Foundation/
 Consensys/
 Ethcore/
 Ether.camp/
-
-#### Associations
 Unstoppable/
 Guaranty/
 Decentralization (decentral)/
