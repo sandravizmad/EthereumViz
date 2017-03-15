@@ -1,17 +1,20 @@
 ## Word list
 
-#### Bitcoin
+Bitcoin
+
 Block/
 Genesisblock/
 Blocksize/
 Blocktime/
-Proof of Work (PoW)/
-Hash (Hash function)/
+Proof of Work/
+PoW/
+Hash/
+"Hash function"/
 Wallet/
 Token/
-Satoshi Nakamoto/
+"Satoshi Nakamoto"/
 Transaction/
-Mining (Miner)/
+Mining: Mining, Miner/
 Consensus (Consensus Algorithm)/
 Difficulty/
 Finality/
